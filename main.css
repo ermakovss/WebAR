@@ -1,0 +1,22 @@
+body{
+  width: 100%;
+  height: 100%;
+}
+
+.ar-section{
+  display: flex;
+  text-align: center;
+}
+
+.model-section{
+  width: 100%;
+  height: 100%;
+}
+
+.wrapper{
+  padding: 0 30%;
+}
+
+model-viewer{
+  height: 500px;
+}
